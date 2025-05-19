@@ -2,9 +2,9 @@
 
 public class UACGetListRequestKTestDto
 {
-    public string CtrlId { get; set; }
+    public string? CtrlId { get; set; }
 
-    public string FrmId { get; set; }
+    public string? FrmId { get; set; }
     
     public int PageNumber { get; set; } = 1;
 
