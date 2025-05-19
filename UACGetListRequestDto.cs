@@ -1,6 +1,6 @@
 ﻿namespace MyAwesomeLib;
 
-public class UACGetListRequestDto
+public class UACGetListRequestKTestDto
 {
     public string CtrlId { get; set; }
 
